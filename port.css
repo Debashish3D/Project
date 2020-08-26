@@ -1,0 +1,54 @@
+body {
+	background-color: #FDF5E6;
+	color: #555555;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container
+{
+	width: 70%;
+	margin: auto;
+	overflow: hidden;
+}
+.gg
+{
+	float: right;
+	width:70%;
+	overflow: hidden;
+}
+#main-header {
+	background-image: url('gme.jpg');
+	color: #fff
+}
+#socials {
+	background-color: #708090 ;
+}
+#socials a {
+	color: #FFFF00;
+	padding-right: 17px;	}
+#socials li {
+	display: inline;
+}
+#msgbox {
+	float:left;
+	width: 60%;
+	color :#9932CC;
+	box-sizing: border-box;
+}
+#msgboxtwo
+{
+	float:left;
+	width:40%;
+	color: black;
+	box-sizing: border-box;
+}
+#msgboxthree {
+	float:left;
+	width:40%;
+	color: #CD5C5C;
+	box-sizing: border-box;
+}
+#main-footer{
+	text-align: center;
+}
